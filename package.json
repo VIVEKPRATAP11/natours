@@ -37,7 +37,7 @@
     "parcel-bundler": "^1.8.1",
     "pug": "^3.0.2",
     "raw-body": "^2.5.1",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.6",
     "slugify": "^1.6.5",
     "stripe": "^11.6.0",
     "validator": "^13.7.0"
